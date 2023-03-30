@@ -16,3 +16,6 @@
 [submodule "You-Dont-Know-JS"]
 	path = You-Dont-Know-JS
 	url = https://github.com/getify/You-Dont-Know-JS.git
+[submodule "software-development-ebooks-1"]
+	path = software-development-ebooks-1
+	url = https://github.com/saintyyu/software-development-ebooks-1.git
