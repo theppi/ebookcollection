@@ -13,3 +13,6 @@
 [submodule "sicp"]
 	path = sicp
 	url = https://github.com/source-academy/sicp.git
+[submodule "You-Dont-Know-JS"]
+	path = You-Dont-Know-JS
+	url = https://github.com/getify/You-Dont-Know-JS.git
