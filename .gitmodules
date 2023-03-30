@@ -1,3 +1,15 @@
 [submodule "Java-Books"]
 	path = Java-Books
 	url = https://github.com/debu3645/Java-Books
+[submodule "Free-Web-Developement-Books"]
+	path = Free-Web-Developement-Books
+	url = https://github.com/whiki/Free-Web-Developement-Books
+[submodule "books-1"]
+	path = books-1
+	url = https://github.com/AngelSanchezT/books-1.git
+[submodule "cheat-sheets"]
+	path = cheat-sheets
+	url = https://github.com/ChristianLempa/cheat-sheets.git
+[submodule "sicp"]
+	path = sicp
+	url = https://github.com/source-academy/sicp.git
