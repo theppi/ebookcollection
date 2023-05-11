@@ -19,3 +19,6 @@
 [submodule "software-development-ebooks-1"]
 	path = software-development-ebooks-1
 	url = https://github.com/saintyyu/software-development-ebooks-1.git
+[submodule "ebooks"]
+	path = ebooks
+	url = https://github.com/gg-daddy/ebooks.git
